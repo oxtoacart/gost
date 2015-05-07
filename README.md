@@ -1,5 +1,3 @@
-MWT EDITS
-
 gost
 ==========
 gost is like a vendoring `go get` that uses Git subtrees. It is useful for
